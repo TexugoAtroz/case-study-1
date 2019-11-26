@@ -1,0 +1,12 @@
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.dll
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.pdb
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.pdb
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll.config
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csprojAssemblyReference.cache
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csproj.CopyComplete
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.dll
+C:\Users\souza\Downloads\Algorithm.Logic\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.pdb
