@@ -42,8 +42,8 @@ namespace Algorithm.Logic
 
             /**
              * @dev Jonas Gabriel Souza 
-             * @email johnthebatbiter@gmail.com
-             * @github https://github.com/TexugoAtroz/
+             * @email souzajdev@gmail.com
+             * @github https://github.com/souzajdev/
              * */
 
             /**
